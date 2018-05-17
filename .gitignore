@@ -1,0 +1,17 @@
+db_files
+*.iml
+.project
+.classpath
+.project.properties
+gen/
+bin/
+.idea/
+.gradle/
+gradle/
+build/
+gradlew*
+.settings
+project.properties
+local.properties
+*.iml
+gradle.properties
